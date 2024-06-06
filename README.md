@@ -1,4 +1,4 @@
 ### marshiers
 `[ˈmɑrʃiə˞z]`
 
-comp sci (hons.) - maj. data science and artificial intelligence
+computer science (hons.) - maj. data science and artificial intelligence
